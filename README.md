@@ -17,3 +17,11 @@ The dataset simulates product listings and customer reviews similar to those on 
   1. potential_revenue = actual_price × rating_count
   2. rating_score = rating × rating_count
   3. price_bucket = Categorized actual prices into ranges
+
+
+### PivotTables
+- Average discount by category
+- Review and rating counts by category
+- Product-wise average ratings and review volumes
+- Potential revenue analysis
+- Product distribution by price range
