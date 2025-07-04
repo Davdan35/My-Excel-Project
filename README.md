@@ -25,3 +25,6 @@ The dataset simulates product listings and customer reviews similar to those on 
 - Product-wise average ratings and review volumes
 - Potential revenue analysis
 - Product distribution by price range
+
+[Amazon case study - My Project Attempt.xlsx](https://github.com/user-attachments/files/21068402/Amazon.case.study.-.My.Project.Attempt.xlsx)
+
