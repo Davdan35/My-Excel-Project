@@ -11,3 +11,9 @@ The dataset simulates product listings and customer reviews similar to those on 
 - Correlate ratings with review volume
 
 - Identify top-performing products
+
+
+ ### Additional calculated fields:
+  1. potential_revenue = actual_price × rating_count
+  2. rating_score = rating × rating_count
+  3. price_bucket = Categorized actual prices into ranges
