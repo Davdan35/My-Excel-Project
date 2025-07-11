@@ -18,6 +18,12 @@ The dataset simulates product listings and customer reviews similar to those on 
   2. rating_score = rating × rating_count
   3. price_bucket = Categorized actual prices into ranges
 
+### Steps Taking:
+1. I fisrt removed duplicated products from the product_id
+2. The category was too long, so I used Text to Columns to split the category where I used main category for the project
+3. In addition to the above columns, I added 2 additional columns to it.
+4. PivotTables were created, some mentioned below
+5. Dashboard / Report was done though I did not include slicer because it was not linking very well.
 
 ### PivotTables
 - Average discount by category
@@ -26,5 +32,6 @@ The dataset simulates product listings and customer reviews similar to those on 
 - Potential revenue analysis
 - Product distribution by price range
 
-[Amazon case study - My Project Attempt.xlsx](https://github.com/user-attachments/files/21068402/Amazon.case.study.-.My.Project.Attempt.xlsx)
+[Uploading My Excel Project - Amazon case study.xlsx…]()
+
 
