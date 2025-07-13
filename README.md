@@ -36,6 +36,7 @@ The dataset simulates product listings and customer reviews similar to those on 
 
 
 
+## Check My Power Bi Below:
 
 I have also done my Power BI project on Palmoria Group.
 
